@@ -1,0 +1,2 @@
+# Rusty-Bargain-Valoraci-n-de-Coches-Usados-con-Machine-Learning
+Rusty Bargain necesita una app para estimar el valor de mercado de coches usados. El proyecto consiste en crear un modelo de predicción optimizando calidad, velocidad y tiempo de entrenamiento. Se comparan algoritmos como regresión lineal, árboles de decisión, bosque aleatorio y gradient boosting., evaluando su desempeño con la métrica RECM.
