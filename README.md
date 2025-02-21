@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="rusty_bargain_banner.jpg" alt="Banner del Proyecto" width="100%">
+  <img src="https://github.com/jserranom27/Rusty-Bargain-Valoraci-n-de-Coches-Usados-con-Machine-Learning/blob/main/Flux_Dev_Genera_una_imagen_digital_de_alta_calidad_que_capture_2.jpeg" alt="Banner del Proyecto" width="100%">
 </div>
 
-# Proyecto de Ciencia de Datos: [**Rusty Bargain – Valoración de Coches Usados con Machine Learning**](https://github.com/jserranom27/h4-04-fintech-No-country/blob/main/README.md) 🚗
+# Proyecto de Ciencia de Datos: [**Rusty Bargain – Valoración de Coches Usados con Machine Learning**](https://github.com/jserranom27/Rusty-Bargain-Valoraci-n-de-Coches-Usados-con-Machine-Learning/blob/main/venta%20_de_autos_usados%20_Rusty_Bargain_modelo_predictivo.ipynb) 🚗
 
 ## Descripción
 Rusty Bargain, un servicio de venta de coches usados, está desarrollando una aplicación para atraer nuevos clientes ofreciendo una rápida estimación del valor de mercado de su vehículo. La app proporciona acceso al historial, especificaciones técnicas, versiones de equipamiento y precios, permitiendo a los usuarios conocer el valor real de su coche de manera inmediata. El proyecto consiste en construir y evaluar un modelo predictivo que determine el valor de mercado, satisfaciendo tres necesidades clave: alta calidad de predicción, velocidad en la inferencia y eficiencia en el entrenamiento.
@@ -28,12 +28,3 @@ Utilizando técnicas de búsqueda aleatoria (RandomizedSearchCV) se optimizaron 
 
 ## Conclusiones
 El modelo predictivo desarrollado cumple con los requisitos clave: alta calidad y velocidad en la predicción, así como eficiencia en el entrenamiento. Esta solución permite estimar el valor de mercado de coches usados de forma precisa, lo que no solo ayuda a atraer nuevos clientes, sino que también aporta un valor estratégico al servicio, optimizando la experiencia y la toma de decisiones en un entorno competitivo.
-
-## Próximos Pasos
-- Refinar los modelos mediante la integración de técnicas adicionales (e.g., CatBoost y XGBoost) para mejorar la precisión.
-- Explorar métodos avanzados de ingeniería de características.
-- Implementar mejoras en la interfaz de usuario para una experiencia más intuitiva.
-
----
-
-Este README resume un proyecto integral que demuestra mi capacidad para aplicar soluciones de machine learning a problemas reales en el sector automotriz, optimizando la predicción del valor de mercado con un enfoque robusto y escalable.
